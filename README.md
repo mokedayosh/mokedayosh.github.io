@@ -48,8 +48,8 @@ For the purposes of this Privacy Policy:
 
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
-First name and last name
-Phone number
+ - First name and last name
+ - Phone number
 <h3>Usage Data</h3>
 
 Usage Data is collected automatically when using the Service.
