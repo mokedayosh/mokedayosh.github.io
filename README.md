@@ -50,7 +50,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 First name and last name
 Phone number
-Usage Data
+<h3>Usage Data</h3>
 
 Usage Data is collected automatically when using the Service.
 
@@ -60,71 +60,71 @@ When You access the Service by or through a mobile device, We may collect certai
 
 We may also collect information that Your browser sends whenever You visit Our Service or when You access the Service by or through a mobile device.
 
-Use of Your Personal Data
+<h2>Use of Your Personal Data</h2>
 
 The Company may use Personal Data for the following purposes:
 
-To provide and maintain our Service, including to monitor the usage of our Service.
+ - To provide and maintain our Service, including to monitor the usage of our Service.
 
-To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+ - To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
 
-For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+ - For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
 
-To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+ - To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
 
-To provide You with news, special offers, and general information about other goods, services and events which We offer that are similar to those that you have already purchased or inquired about unless You have opted not to receive such information.
+ - To provide You with news, special offers, and general information about other goods, services and events which We offer that are similar to those that you have already purchased or inquired about unless You have opted not to receive such information.
 
-To manage Your requests: To attend and manage Your requests to Us.
+ - To manage Your requests: To attend and manage Your requests to Us.
 
-For business transfers: We may use Your Personal Data to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+ - For business transfers: We may use Your Personal Data to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
 
-For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
+ - For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
 
 We may share Your Personal Data in the following situations:
 
-With Service Providers: We may share Your Personal Data with Service Providers to monitor and analyze the use of our Service, to contact You.
-For business transfers: We may share or transfer Your Personal Data in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
-With Affiliates: We may share Your Personal Data with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
-With business partners: We may share Your Personal Data with Our business partners to offer You certain products, services or promotions.
-With other users: If Our Service offers public areas, when You share Personal Data or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
-With Your consent: We may disclose Your Personal Data for any other purpose with Your consent.
-Retention of Your Personal Data
+ - With Service Providers: We may share Your Personal Data with Service Providers to monitor and analyze the use of our Service, to contact You.
+ - For business transfers: We may share or transfer Your Personal Data in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+ - With Affiliates: We may share Your Personal Data with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+ - With business partners: We may share Your Personal Data with Our business partners to offer You certain products, services or promotions.
+ - With other users: If Our Service offers public areas, when You share Personal Data or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
+ - With Your consent: We may disclose Your Personal Data for any other purpose with Your consent.
+<h2>Retention of Your Personal Data</h2>
 
 The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if We are required to retain Your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
 Where possible, We apply shorter retention periods and/or reduce identifiability by deleting, aggregating, or anonymizing data. Unless otherwise stated, the retention periods below are maximum periods ("up to") and We may delete or anonymize data sooner when it is no longer needed for the relevant purpose. We apply different retention periods to different categories of Personal Data based on the purpose of processing and legal obligations:
 
-Account Information
+ - Account Information
 
-User Accounts: retained for the duration of your account relationship plus up to 24 months after account closure to handle any post-termination issues or resolve disputes.
-Usage Data
+    - User Accounts: retained for the duration of your account relationship plus up to 24 months after account closure to handle any post-termination issues or resolve disputes.
+ - Usage Data
 
-Application usage statistics: up to 24 months to understand feature adoption and service improvements.
+    - Application usage statistics: up to 24 months to understand feature adoption and service improvements.
 
-Server logs (IP addresses, access times): up to 24 months for security monitoring and troubleshooting purposes.
+    - Server logs (IP addresses, access times): up to 24 months for security monitoring and troubleshooting purposes.
 
 Usage Data is retained in accordance with the retention periods described above, and may be retained longer only where necessary for security, fraud prevention, or legal compliance.
 
 We may retain Personal Data beyond the periods stated above for different reasons:
 
-Legal obligation: We are required by law to retain specific data (e.g., financial records for tax authorities).
-Legal claims: Data is necessary to establish, exercise, or defend legal claims.
-Your explicit request: You ask Us to retain specific information.
-Technical limitations: Data exists in backup systems that are scheduled for routine deletion.
+ - Legal obligation: We are required by law to retain specific data (e.g., financial records for tax authorities).
+ - Legal claims: Data is necessary to establish, exercise, or defend legal claims.
+ - Your explicit request: You ask Us to retain specific information.
+ - Technical limitations: Data exists in backup systems that are scheduled for routine deletion.
 You may request information about how long We will retain Your Personal Data by contacting Us.
 
 When retention periods expire, We securely delete or anonymize Personal Data according to the following procedures:
 
-Deletion: Personal Data is removed from Our systems and no longer actively processed.
-Backup retention: Residual copies may remain in encrypted backups for a limited period consistent with our backup retention schedule and are not restored except where necessary for security, disaster recovery, or legal compliance.
-Anonymization: In some cases, We convert Personal Data into anonymous statistical data that cannot be linked back to You. This anonymized data may be retained indefinitely for research and analytics.
-Transfer of Your Personal Data
+ - Deletion: Personal Data is removed from Our systems and no longer actively processed.
+ - Backup retention: Residual copies may remain in encrypted backups for a limited period consistent with our backup retention schedule and are not restored except where necessary for security, disaster recovery, or legal compliance.
+ - Anonymization: In some cases, We convert Personal Data into anonymous statistical data that cannot be linked back to You. This anonymized data may be retained indefinitely for research and analytics.
+<h2>Transfer of Your Personal Data</h2>
 
 Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ from those from Your jurisdiction.
 
 Where required by applicable law, We will ensure that international transfers of Your Personal Data are subject to appropriate safeguards and supplementary measures where appropriate. The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
-Delete Your Personal Data
+<h2>Delete Your Personal Data</h2>
 
 You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
 
@@ -134,42 +134,42 @@ You may update, amend, or delete Your information at any time by signing in to Y
 
 Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
 
-Disclosure of Your Personal Data
+<h2>Disclosure of Your Personal Data</h2>
 
-Business Transactions
+<h3>Business Transactions</h3>
 
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-Law enforcement
+<h3>Law enforcement</h3>
 
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-Other legal requirements
+<h3>Other legal requirements</h3>
 
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
-Comply with a legal obligation
-Protect and defend the rights or property of the Company
-Prevent or investigate possible wrongdoing in connection with the Service
-Protect the personal safety of Users of the Service or the public
-Protect against legal liability
-Security of Your Personal Data
+ - Comply with a legal obligation
+ - Protect and defend the rights or property of the Company
+ - Prevent or investigate possible wrongdoing in connection with the Service
+ - Protect the personal safety of Users of the Service or the public
+ - Protect against legal liability
+<h2>Security of Your Personal Data</h2>
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially reasonable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-Children's Privacy
+<h1>Children's Privacy</h1>
 
 Our Service does not address anyone under the age of 16. We do not knowingly collect personally identifiable information from anyone under the age of 16. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 16 without verification of parental consent, We take steps to remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
-Links to Other Websites
+<h1>Links to Other Websites</h1>
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-Changes to this Privacy Policy
+<h1>Changes to this Privacy Policy</h1>
 
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
@@ -177,8 +177,8 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Contact Us
+<h1>Contact Us</h1>
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: moked@ayosh.com
+ - By email: moked@ayosh.com
